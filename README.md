@@ -1,5 +1,5 @@
 # New Project
 
 This is a Sample Project.
-Created On Locan System.
+Created On Local System.
 Created By Parmeshwar Patil...
